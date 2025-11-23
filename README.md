@@ -1,5 +1,5 @@
 <h1>Hi, I'm Will Shelby!<br/>
-<a href="https://linkedin.com/in/william-shelby">Cybersecurity Student</a>
+<a href="https://linkedin.com/in/william-shelby">IT Student</a>
 
 <h2>🎯 Projects</h2>
 
